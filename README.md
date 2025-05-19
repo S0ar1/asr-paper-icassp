@@ -9,7 +9,7 @@ To develop and evaluate an Automatic Speech Recognition (ASR) approach focused o
 
 ## 🛠 Repository Structure
 
-asr-paper-icassp/
+asr-paper-icassp
 ├── src/ # Core code (models, data loaders, training loops)
 ├── data/ # Dataset information or download instructions
 ├── notebooks/ # Experiments, visualization, and analysis
