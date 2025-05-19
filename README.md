@@ -1,5 +1,5 @@
 # asr-paper-icassp
-it's for 2025 icassp #ASR-Paper-ICASSP# 
+it's for 2025 icassp **ASR-Paper-ICASSP** 
 
 This repository contains the implementation and supporting materials for our paper submitted to ICASSP 2025.
 
