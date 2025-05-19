@@ -1,5 +1,5 @@
 # asr-paper-icassp
-it's for 2025 icassp# ASR-Paper-ICASSP# 
+it's for 2025 icassp #ASR-Paper-ICASSP# 
 
 This repository contains the implementation and supporting materials for our paper submitted to ICASSP 2025.
 
@@ -15,10 +15,12 @@ asr-paper-icassp /
 
 ├── data/ # Dataset information or download instructions
 
-├── notebooks/ # Experiments, visualization, and analysis//
+├── notebooks/ # Experiments, visualization, and analysis
+
 ├── results/ # Experiment results, figures, logs
 
 ├── scripts/ # Shell scripts to run training and evaluation
+
 └── paper/ # LaTeX or Markdown paper draft
 
 ## 🚧 Status   ##🚧状态
