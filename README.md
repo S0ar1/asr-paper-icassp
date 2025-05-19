@@ -23,7 +23,7 @@ asr-paper-icassp /
 
 └── paper/ # LaTeX or Markdown paper draft
 
-## 🚧 Status   ##🚧状态
+## 🚧 Status 
 
 - [x] Project initialized   
 - [ ] Define research problem clearly
